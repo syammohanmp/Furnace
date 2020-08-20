@@ -1,0 +1,16 @@
+{
+    "name": "syamvilakudy/furnace",
+    "description": "A Simple PHP framework.",
+    "type": "library",
+    "require": {
+        "twig/twig": "^3.0"
+    },
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "Syam Mohan",
+            "email": "syamvilakudy@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
